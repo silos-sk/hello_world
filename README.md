@@ -2,7 +2,7 @@
 
 Hello World program written in Python showing integration with Visual Studio Code and GitHub
 
-Hello World Demo (YT link uploaded in Canvas)
+Hello World Demo (Video link uploaded in Canvas)
 
 # Development Environment
 
