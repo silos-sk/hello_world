@@ -6,7 +6,7 @@ Hello World Demo (YT link uploaded in Canvas)
 
 # Development Environment
 
-VS Code
+VS Code<br>
 Python
 
 # Useful Websites
