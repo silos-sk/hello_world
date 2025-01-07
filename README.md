@@ -11,5 +11,4 @@ Python
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [VS Code - Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
